@@ -1,4 +1,4 @@
-These are the references that is used in case study of MOVEit Data Breaches:
+These are the references that are used in the case study of MOVEit Data Breaches:
 
 [1]	ZDNet. "MOVEit Data Breach: What You Need to Know." June 2023.
 [2]	Threatpost. "Clop Ransomware Exploits MOVEit Vulnerability." May 2023.
