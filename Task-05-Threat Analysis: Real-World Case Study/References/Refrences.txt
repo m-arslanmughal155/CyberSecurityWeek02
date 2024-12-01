@@ -1,1 +1,7 @@
+These are the references that is used in case study of MOVEit Data Breaches:
 
+[1]	ZDNet. "MOVEit Data Breach: What You Need to Know." June 2023.
+[2]	Threatpost. "Clop Ransomware Exploits MOVEit Vulnerability." May 2023.
+[3]	The Verge. "MOVEit Zero-Day: Analysis of a Supply Chain Breach." June 2023.
+[4]	Daniel, L. (2024, November 11). Amazon confirms data breach exposed 2,800,000 lines of employee data. Forbes. Retrieved December 1, 2024, https://fondby.com/2ybAA
+[5]	The Register. (2024, November 12). Amazon quietly reveals MOVEit breach exposing employee data. Retrieved December 1, 2024, from https://www.theregister.com/2024/11/12/amazon_moveit_breach/
